@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcralmeida)](https://github.com/anuraghazra/github-readme-stats)
+[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcralmeida&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pcralmeida/pcralmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
